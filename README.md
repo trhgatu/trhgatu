@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trhgatu
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, HTML, CSS
 - ⚡ Fun fact: I'm funny
 
 <!---
