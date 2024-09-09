@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Tran Hoang Anh Tu</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
-
-
 
 # 💫 About Me:
 - 🌱 I’m currently learning **NodeJS & ReactJS**
