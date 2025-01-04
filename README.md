@@ -46,7 +46,7 @@
 ---
 
 ## ✍️ Random Dev Quote
-<div align="center">
+<div align="center" width="100%">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
@@ -56,9 +56,3 @@
   <img src="https://visitcount.itsvg.in/api?id=trhgatu&icon=5&color=13" alt="Profile Visit Count"/>
 </div>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
