@@ -32,8 +32,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=trhgatu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=trhgatu&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
