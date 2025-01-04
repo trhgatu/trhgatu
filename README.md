@@ -51,8 +51,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=trhgatu&icon=5&color=13" alt="Profile Visit Count"/>
-</div>
-
