@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Anh Tu</h1> 
-<p align="center">🌱 Currently exploring <strong>Node.js</strong>, <strong>React.js</strong> & <strong>Next.js</strong></p> 
-<p align="center">🔭 Studying at <strong>Ho Chi Minh City University of Industry and Trade</strong></p> 
-<p align="center">📫 Reach me at <a href="mailto:trananhtu1112003@gmail.com">trananhtu1112003@gmail.com</a></p> 
-<p align="center">💼 Check out my portfolio: <a href="https://cv-tranhoanganhtu.vercel.app/">https://cv-tranhoanganhtu.vercel.app/</a></p>  
-
----
+<p>🌱 Currently exploring <strong>Node.js</strong>, <strong>React.js</strong> & <strong>Next.js</strong></p> 
+<p>🔭 Studying at <strong>Ho Chi Minh City University of Industry and Trade</strong></p> 
+<p>📫 Reach me at <a href="mailto:trananhtu1112003@gmail.com">trananhtu1112003@gmail.com</a></p> 
+<p>💼 Check out my portfolio: <a href="https://cv-tranhoanganhtu.vercel.app/">https://cv-tranhoanganhtu.vercel.app/</a></p>  
 
 ## 🌐 Connect with Me
 <div align="center">   
@@ -14,41 +12,55 @@
   <a href="https://pinterest.com/trhgatu"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/></a> 
 </div>  
 
----
-
 ## 💻 Tech Stack
-<div align="center">   
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>   
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>   
-  <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>   
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>   
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>   
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>   
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>   
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>   
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>   
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>   
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>   
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>   
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-</div>  
 
----
+<div align="left">
+  <!-- Frontend Technologies -->
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="ViteJS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin: 10px;"/>
+  
+  <!-- Backend Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="Graphql" width="40" height="40" style="margin: 10px;" />
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 10px;"/>
+  
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 10px;" />
+</div>
 
 
 ## 📊 GitHub Stats
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trhgatu&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</div>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
- 
-
----
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=trhgatu&theme=dark&hide_border=false" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ## ✍️ Random Dev Quote
-<div align="center" width="100%">   
+<div width="100%">   
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/> 
 </div>
