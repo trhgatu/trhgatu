@@ -3,7 +3,7 @@
 <p>🌱 Currently exploring <strong>Node.js</strong>, <strong>Next.js</strong></p> 
 <p>🔭 Studying at <strong>Ho Chi Minh City University of Industry and Trade</strong></p> 
 <p>📫 Reach me at <a href="mailto:trananhtu1112003@gmail.com">trananhtu1112003@gmail.com</a></p> 
-<p>💼 Check out my portfolio: <a href="https://atudev.vercel.app/">https://atudev.vercel.app/</a></p>  
+<p>💼 Check out my portfolio: <a href="https://atuxdev.vercel.app/">https://atudev.vercel.app/</a></p>  
 
 ## 🌐 Connect with Me
 
