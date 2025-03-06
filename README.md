@@ -50,4 +50,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/trhgatu/github-readme-stats)
   [![trhgatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=trhgatu)](https://github.com/trhgatu/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/trhgatu/atuxdev)](https://atuxdev.vercel.app)
+![](https://komarev.com/ghpvc/?username=trhgatu)
