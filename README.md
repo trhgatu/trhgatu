@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Anh Tu</h1> 
 <p>⭐ I'm a passionate developer</p>
-<p>🌱 Currently exploring <strong>Node.js</strong>, <strong>Next.js</strong></p> 
+<p>🌱 Currently exploring <strong>Node.js</strong>, <strong>React.js</strong></p> 
 <p>🔭 Studying at <strong>Ho Chi Minh City University of Industry and Trade</strong></p> 
 <p>📫 Reach me at <a href="mailto:trananhtu1112003@gmail.com">trananhtu1112003@gmail.com</a></p> 
 <p>💼 Check out my portfolio: <a href="https://atuxdev.vercel.app/">trhgatu's Portfolio</a></p>  
