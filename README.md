@@ -59,7 +59,7 @@ status: "Always learning, always growing 📈"
 
 ---
 
-## <div align="center"> Language & Framework 🚀</div>
+## <div align="center"> 🚀 Language & Framework 🚀</div>
 
 <div align="center">
 
@@ -70,7 +70,7 @@ status: "Always learning, always growing 📈"
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vite&theme=dark" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase,graphql&theme=dark" />
 
 ### 🔧 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,vercel,netlify&theme=dark" />
