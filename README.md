@@ -93,9 +93,9 @@ status: "Always learning, always growing 📈"
 
 ## <div align="center">📈 Profile Stats 📈</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=trhgatu&style=for-the-badge&color=FACC15&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/followers/trhgatu?style=for-the-badge&color=FACC15&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/trhgatu?style=for-the-badge&color=FACC15&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=trhgatu&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/trhgatu?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/trhgatu?style=for-the-badge" />
 </div>
 
 ---
@@ -114,7 +114,3 @@ status: "Always learning, always growing 📈"
 
 ---
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
