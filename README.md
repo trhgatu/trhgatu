@@ -105,7 +105,6 @@ status: "Always learning, always growing 📈"
 </div>
 
 <div align="center">
-  <h3>🙏 <em>Thanks for visiting my digital space!</em> 🙏</h3>
   <p><strong>Code is not my job – it's my way to think, express, and connect.</strong></p>
   <p><em>Let's build something amazing together! ✨</em></p>
   <br/>
