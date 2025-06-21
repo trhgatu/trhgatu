@@ -111,5 +111,3 @@ status: "Always learning, always growing 📈"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
 </div>
 
----
-
