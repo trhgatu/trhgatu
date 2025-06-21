@@ -101,14 +101,14 @@ status: "Always learning, always growing 📈"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
-</div>
-
-<div align="center">
   <p><strong>Code is not my job – it's my way to think, express, and connect.</strong></p>
   <p><em>Let's build something amazing together! ✨</em></p>
   <br/>
   <sub>∞ <strong>trhgatu</strong> | Crafting the future, one commit at a time</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
 </div>
 
 ---
