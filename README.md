@@ -36,7 +36,7 @@ status: "Always learning, always growing 📈"
 
 ---
 
-## <div align="center">🌐 Let's Connect & Collaborate 🌐</div>
+## <div align="center">🌐 Let's Connect 🌐</div>
 
 <div align="center">
   <a href="https://atuxdev.vercel.app/">
