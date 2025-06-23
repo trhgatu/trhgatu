@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=460&lines=Hi,+I'm+trhgatu.;I+build+not+for+show,+but+for+soul.;Backend-first,+fullstack-by-choice."/>
 </p>
 
-## <div align="center">🌟 About Me 🌟</div>
+## <div align="center">🌟 Who Am I 🌟</div>
 
 <div align="center">
   
