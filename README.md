@@ -1,113 +1,146 @@
-<h1 align="center">🗡️ Welcome to my Github</h1>
-<h3 align="center">⚔️ A developer who builds with heart, not just hands.</h3>
+<div align="center">
+  # 👋 Hey there, I'm **Tran Hoang Anh Tu**
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=460&lines=Hi,+I'm+trhgatu.;I+build+not+for+show,+but+for+soul.;Backend-first,+fullstack-by-choice."/>
-</p>
-
-## <div align="center">🌟 Who Am I 🌟</div>
 
 <div align="center">
   
-```yaml
-name: "Tran Hoang Anh Tu (trhgatu)"
-location: "Ho Chi Minh City, Vietnam"
-current_focus: "Building scalable backend systems & elegant frontends"
-education: "Ho Chi Minh City University of Industry and Trade 🎓"
-philosophy: "Code with purpose, build with passion"
-status: "Always learning, always growing 📈"
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Enthusiast+%E2%9A%A1;Building+Digital+Experiences+%F0%9F%8C%9F)
+  
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+```typescript
+const developer = {
+  name: "Tran Hoang Anh Tu",
+  username: "trhgatu",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  education: "Ho Chi Minh City University of Industry and Trade",
+  
+  currentFocus: [
+    "Building scalable backend architectures",
+    "Crafting intuitive user experiences",
+    "Exploring modern web technologies"
+  ],
+  
+  philosophy: "Code with purpose, build with passion",
+  
+  lifeStatus: "Always learning, always growing 📈"
+};
 ```
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="320"/>
-</div>
-
----
-
-## <div align="center">🎨 My Philosophy 🎨</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=I+build+not+for+show%2C+but+for+soul."/>
-</div>
-
-<p align="center"><em>– trhgatu</em></p>
-
----
-
-## <div align="center">🌐 Let's Connect 🌐</div>
-
-<div align="center">
-  <a href="https://atuxdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
-  </a>
-  
-  <a href="mailto:trananhtu1112003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/trhgatu1103">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="https://facebook.com/trhgatu">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
-  </a>
-  
-  <a href="https://instagram.com/th_atu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-</div>
-
----
-
-## <div align="center"> 🚀 Language & Framework 🚀</div>
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+### **💻 Programming Languages**
 <img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" />
 
-### 🛠️ Frontend Technologies  
+### **🎨 Frontend Technologies**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vite&theme=dark" />
 
-### ⚙️ Backend & Database
+### **⚙️ Backend & Database**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase,graphql,supabase&theme=dark" />
 
-### 🔧 Tools & Platforms
+### **🔧 Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,vercel,netlify&theme=dark" />
 
 </div>
 
----
+## 📊 GitHub Analytics
 
-## <div align="center">📈 Github Stats 📈</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trhgatu&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## <div align="center">📈 Profile Stats 📈</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=trhgatu&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/trhgatu?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/trhgatu?style=for-the-badge" />
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=trhgatu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  
 </div>
 
----
+## 🌟 Featured Projects
 
 <div align="center">
-  <p><strong>Code is not my job – it's my way to think, express, and connect.</strong></p>
-  <p><em>Let's build something amazing together! ✨</em></p>
+  
+  ### 🚀 **Coming Soon...**
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+amazing+projects...;Stay+tuned+for+updates!;Code+quality+over+quantity" />
+  
+  **Currently working on some exciting projects!**  
+  Follow me to get notified when they're ready 🔔
+  
+</div>
+
+## 🎯 Current Journey
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>🔭 Current Focus</strong>
+        <br/>
+        Building scalable backend architectures
+      </td>
+      <td align="center" width="50%">
+        <strong>🌱 Learning</strong>
+        <br/>
+        Advanced system design patterns
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <strong>👯 Collaboration</strong>
+        <br/>
+        Open to open-source projects
+      </td>
+      <td align="center" width="50%">
+        <strong>💬 Ask me about</strong>
+        <br/>
+        React, Node.js, TypeScript
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <sub>∞ <strong>trhgatu</strong> | Crafting the future, one commit at a time</sub>
+  
+  **⚡ Fun fact:** I believe great code tells a story 📖
+  
 </div>
+
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atuxdev.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trhgatu1103)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trananhtu1112003@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/trhgatu)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/th_atu)
+  
 </div>
 
+---
+
+<div align="center">
+  
+  ### 💭 Developer Philosophy
+  
+  > *"I build not for show, but for soul. Code is not my job – it's my way to think, express, and connect."*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=trhgatu&style=for-the-badge&color=6366F1)
+  ![Followers](https://img.shields.io/github/followers/trhgatu?style=for-the-badge&color=6366F1)
+  ![Stars](https://img.shields.io/github/stars/trhgatu?style=for-the-badge&color=6366F1)
+  
+  **Let's build something amazing together!** ✨
+  
+  <sub>Made with ❤️ by trhgatu | Crafting the future, one commit at a time</sub>
+  
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling&fontAlignY=65" width="100%" />
