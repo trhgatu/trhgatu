@@ -43,7 +43,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vite&theme=dark" />
 
 ### **⚙️ Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase,graphql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis,firebase,graphql,supabase&theme=dark" />
 
 ### **🔧 Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,vercel,netlify&theme=dark" />
