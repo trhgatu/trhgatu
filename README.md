@@ -144,8 +144,6 @@ const developer = {
   
   **Let's build something amazing together!** ✨
   
-  <sub>Made with ❤️ by trhgatu | Crafting the future, one commit at a time</sub>
-  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling&fontAlignY=65" width="100%" />
