@@ -59,28 +59,6 @@ const developer = {
   
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🧩 Templates
-
-| **Backend Templates** | **Frontend Templates** |
-|:---------------------:|:---------------------:|
-| **Backend (NestJS)**<br>*Production-ready NestJS template: modular, JWT auth, Docker, CI/CD, best practices.*<br>🔗 [View Repo](https://github.com/trhgatu/trhgatu-template-backend-nestjs) <br><br> **Backend (Express)**<br>*Advanced Express template: modular structure, RBAC, audit logging, CRUD modules, Docker, CI/CD.*<br>🔗 [View Repo](#) | **Frontend (NextJS App Router)**<br>*Next.js 14 template: App Router, modular features, authentication, shared UI components, best practices.*<br>🔗 [View Repo](#) <br><br> **Frontend (React + Vite)**<br>*Vite + React template: modular features, authentication flow, reusable layouts, shared components, best practices.*<br>🔗 [View Repo](#) |
-
----
-### 🚀 Projects
-
-| **Project** | **Description** | **Based on Template(s)** |
-|:------------|:----------------|:------------------------|
-| **The Archive Of One**<br>🔗 [View Repo](#) | *Modern blog platform: rich editor, custom themes, seamless publishing workflow.* | Frontend (NextJS App Router) |
-| **Sport Booking**<br>🔗 [View Repo](#) | *Collaborative sport booking platform: real-time updates, role-based permissions, scalable RESTful APIs, robust authentication, and modern UI.* | Backend (NestJS), Frontend (NextJS App Router) |
-| **E-commerce Platform**<br>🔗 [View Repo](#) | *Full-stack e-commerce solution: modular Node.js backend, RESTful APIs, authentication, product/catalog management, orders, payments (VNPay), notifications, vouchers, modern admin dashboard, and real-time updates. Production-ready with Docker & CI/CD.* | Backend (Express), Frontend (NextJS App Router), Frontend (React + Vite) |
-
-</div>
-
-
 ## 🎯 Current Journey
 
 <div align="center">
