@@ -1,15 +1,9 @@
 <div align="center">
    <h1>👋 Hey there, I'm <strong>Tran Hoang Anh Tu</strong></h1>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Enthusiast+%E2%9A%A1;Building+Digital+Experiences+%F0%9F%8C%9F)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Software-Engineer%F0%9F%9A%80;Building+Digital+Experiences+%F0%9F%8C%9F)
   
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
 
 ## 🚀 About Me
 
