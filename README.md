@@ -8,20 +8,24 @@
 ```typescript
 const developer = {
   name: "Tran Hoang Anh Tu",
-  username: "trhgatu",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  education: "Ho Chi Minh City University of Industry and Trade",
-  
+  aka: "trhgatu",
+  base: "Ho Chi Minh City, Vietnam 🇻🇳",
+
+  roles: ["Software Engineer", "System Architect", "Creative Builder"],
+  playgrounds: ["Web", "3D", "System Design", "DDD", "Digital Experiences"],
+
   currentFocus: [
-    "Building scalable backend architectures",
-    "Crafting intuitive user experiences",
-    "Exploring modern web technologies"
+    "Designing scalable backend domains with DDD",
+    "Crafting meaningful digital experiences",
+    "Blending code, creativity and storytelling"
   ],
-  
-  philosophy: "Code with purpose, build with passion",
-  
-  lifeStatus: "Always learning, always growing 📈"
+
+  philosophy: "Build with intention. Create with soul.",
+  identity: "Not just writing code – shaping systems, shaping self.",
+
+  status: "Learning, evolving, shipping — in an infinite loop"
 };
+
 ```
 
 ## 🤝 Let's Connect
