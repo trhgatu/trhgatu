@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm <strong>Tran Hoang Anh Tu</strong></h1>
-  <p><i>just a guy who wants to rewrite the world, one line of code at a time.</i></p>
+  <p><i>writing code the way painters write light — crafting my own universe, line by line.</i></p>
 </div>
 
 ## 🚀 About Me
