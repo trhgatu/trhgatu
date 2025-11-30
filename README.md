@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>👋 Hey there, I'm <strong>Tran Hoang Anh Tu</strong></h1>
+  <h1>I'm <strong>Tran Hoang Anh Tu</strong></h1>
   <p><i>writing code the way painters write light — crafting my own universe, line by line.</i></p>
 </div>
 
 ## 🚀 About Me
 
 ```typescript
-const developer = {
+const architect = {
   name: "Tran Hoang Anh Tu",
   aka: "trhgatu",
-  base: "Ho Chi Minh City, Vietnam 🇻🇳",
+  base: "Ho Chi Minh City, Vietnam",
 
-  roles: ["Software Engineer", "System Architect", "Creative Builder"],
-  playgrounds: ["Web", "3D", "System Design", "DDD", "Digital Experiences"],
+  roles: ["Software Engineer", "System Architect", "Creative Technologist"],
+  playgrounds: ["Web", "3D", "System Design", "Digital Experiences"],
 
   currentFocus: [
     "Designing scalable backend domains with DDD",
@@ -23,7 +23,7 @@ const developer = {
   philosophy: "Build with intention. Create with soul.",
   identity: "Not just writing code – shaping systems, shaping self.",
 
-  status: "Learning, evolving, shipping — in an infinite loop"
+  status: "Learning, evolving — in an infinite loop"
 };
 
 ```
@@ -34,7 +34,7 @@ const developer = {
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atuxdev.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trhgatu1103)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trananhtu1112003@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trhgatu.dev@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/trhgatu)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/th_atu)
   
@@ -45,7 +45,7 @@ const developer = {
 
 <div align="center">
 
-### **💻 Programming Languages**
+### **💻 Languages**
 <img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" />
 
 ### **🎨 Frontend Technologies**  
@@ -82,7 +82,7 @@ const developer = {
       <td align="center" width="50%">
         <strong>🌱 Learning</strong>
         <br/>
-        Advanced system design patterns
+        System design & digital OS patterns
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ const developer = {
   ![Followers](https://img.shields.io/github/followers/trhgatu?style=for-the-badge&color=6366F1)
   ![Stars](https://img.shields.io/github/stars/trhgatu?style=for-the-badge&color=6366F1)
   
-  **Let's build something amazing together!** ✨
+  **Let’s create something extraordinary!** ✨
   
 </div>
 
