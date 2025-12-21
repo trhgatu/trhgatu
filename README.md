@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm <strong>Tran Hoang Anh Tu</strong></h1>
+  <h1>I'm <strong>Anh Tu</strong></h1>
   <p><i>writing code the way painters write light — crafting my own universe, line by line.</i></p>
 </div>
 
