@@ -32,7 +32,7 @@ const architect = {
 
 <div align="center">
   
-  [![My Realm](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thatu.is-a.dev)
+  [![Realm](https://img.shields.io/badge/Realm-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thatu.is-a.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trhgatu1103)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trhgatu.dev@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/trhgatu)
