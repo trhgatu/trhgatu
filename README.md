@@ -1,34 +1,25 @@
 <div align="center">
-  <h1>I'm <strong>Anh Tu</strong></h1>
-  <p><i>writing code the way painters write light — crafting my own universe, line by line.</i></p>
+  <h1>Hey, I'm <strong>Anh Tu</strong></h1>
+  <p><em>Writing code the way painters write light — crafting my own universe, line by line.</em></p>
 </div>
+<br/>
 
-## 🚀 About Me
+## About Me
 
-```typescript
-const architect = {
-  name: "Tran Hoang Anh Tu",
-  aka: "trhgatu",
-  base: "Ho Chi Minh City, Vietnam",
-
-  roles: ["Software Engineer", "System Architect", "Creative Technologist"],
-  playgrounds: ["Web", "3D", "System Design", "Digital Experiences"],
-
-  currentFocus: [
-    "Designing scalable backend domains with DDD",
-    "Crafting meaningful digital experiences",
-    "Blending code, creativity and storytelling"
-  ],
-
-  philosophy: "Build with intention. Create with soul.",
-  identity: "Not just writing code – shaping systems, shaping self.",
-
-  status: "Learning, evolving — in an infinite loop"
+```ts
+const me = {
+  name       : "Tran Hoang Anh Tu",
+  alias      : "trhgatu",
+  from       : "Ho Chi Minh City, Vietnam 🇻🇳",
+  roles      : ["Software Engineer", "System Architect", "Creative Technologist"],
+  focus      : "Scalable backend (DDD), meaningful digital experiences, code + creativity + storytelling",
+  philosophy : "Build with intention. Create with soul.",
+  belief     : "Great code tells a story 📖",
+  status     : "Learning & evolving — infinite loop"
 };
-
 ```
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
@@ -41,25 +32,25 @@ const architect = {
 </div>
 
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### **💻 Languages**
+### **Languages**
 <img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" />
 
-### **🎨 Frontend Technologies**  
+### **Frontend Technologies**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vite&theme=dark" />
 
-### **⚙️ Backend & Database**
+### **Backend & Database**
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis,firebase,graphql,supabase&theme=dark" />
 
-### **🔧 Tools & Platforms**
+### **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,vercel&theme=dark" />
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -68,48 +59,9 @@ const architect = {
   
 </div>
 
-## 🎯 Current Journey
-
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>🔭 Current Focus</strong>
-        <br/>
-        Building scalable backend architectures
-      </td>
-      <td align="center" width="50%">
-        <strong>🌱 Learning</strong>
-        <br/>
-        System design & digital OS patterns
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <strong>👯 Collaboration</strong>
-        <br/>
-        Open to open-source projects
-      </td>
-      <td align="center" width="50%">
-        <strong>💬 Ask me about</strong>
-        <br/>
-        React, Node.js, TypeScript
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  **⚡ Fun fact:** I believe great code tells a story 📖
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Developer Philosophy
+  ### Developer Philosophy
   
   > *"I build not for show, but for soul. Code is not my job – it's my way to think, express, and connect."*
   
