@@ -31,10 +31,10 @@
 <img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" />
 
 ### **Visualizing the Void**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind,vite&theme=dark" />
 
 ### **The Foundation & Memory**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis,firebase,graphql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis,firebase,graphql,golang,supabase&theme=dark" />
 
 ### **The Alchemist's Workshop**
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,vercel&theme=dark" />
