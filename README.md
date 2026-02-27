@@ -1,15 +1,8 @@
-<!-- HEADER -->
-<table border="0" cellpadding="0" cellspacing="20" width="100%">
-<tr>
-<td width="180" valign="middle" align="center">
+<div align="center">
 
-<!-- ┌──────────────────────────────────────┐ -->
-<!--   📸  PASTE YOUR PHOTO URL HERE       -->
-<!-- └──────────────────────────────────────┘ -->
-<img src="https://github.com/user-attachments/assets/7e75d0d2-bc63-421a-be38-a009f8796ab1" width="150" style="border-radius:12px" />
+<img src="https://github.com/user-attachments/assets/201b43e7-6b0e-4daf-96f9-4918a5491a1d" width="120" style="border-radius:50%" />
 
-</td>
-<td valign="middle">
+<br/><br/>
 
 ```
 ████████╗██████╗ ██╗  ██╗ ██████╗  █████╗ ████████╗██╗   ██╗
@@ -20,13 +13,13 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=666666&center=false&vCenter=true&width=520&height=28&lines=soul+writing+code+the+way+painters+write+light+✦" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=520&height=28&lines=just+a+soul+writing+code+the+way+painters+write+light" />
 
 <br/>
 
 [![](https://img.shields.io/badge/◈_THE_REALM-0d1117?style=for-the-badge)](https://thatu.is-a.dev)
-[![](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=555)](https://www.linkedin.com/in/trhgatu1103)
-[![](https://img.shields.io/badge/◈_SIGNAL-0d1117?style=for-the-badge&logo=gmail&logoColor=555)](mailto:trhgatu.dev@gmail.com)
+[![](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge)](https://www.linkedin.com/in/trhgatu1103)
+[![](https://img.shields.io/badge/◈_SIGNAL-0d1117?style=for-the-badge)](mailto:trhgatu.dev@gmail.com)
 
 <br/>
 
@@ -34,15 +27,12 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/trhgatu?style=flat-square&color=111111&label=FOLLOWERS" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
 
-<!-- MANIFEST -->
 <div align="center">
 
 ### ✦ The Architect's Manifest
@@ -116,7 +106,6 @@ const trhgatu = {
 
 ---
 
-<!-- PHILOSOPHY -->
 <div align="center">
 
 ### ✦ THE PHILOSOPHY
