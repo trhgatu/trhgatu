@@ -12,14 +12,6 @@
    ██║   ██║  ██║██║  ██║╚██████╔╝██║  ██║   ██║   ╚██████╔╝
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝
 ```
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=520&height=28&lines=just+a+soul+writing+code+the+way+painters+write+light" />
 
@@ -96,17 +88,29 @@ const trhgatu = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=trhgatu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=888888&icon_color=888888&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=trhgatu&show_icons=true&rank_icon=github&theme=react&hide_border=true&bg_color=0D1117&title_color=888888&icon_color=888888&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trhgatu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=888888&text_color=C9D1D9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=trhgatu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=888888&text_color=C9D1D9&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=trhgatu&theme=dark&hide_border=true&background=0D1117&ring=555555&fire=888888&currStreakLabel=888888&sideLabels=555555&dates=444444&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trhgatu&bg_color=0D1117&color=666666&line=444444&point=888888&area=true&area_color=1a1a1a&hide_border=true" width="95%" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trhgatu&bg_color=0D1117&color=666666&line=333333&point=888888&area=true&area_color=1a1a1a&hide_border=true" width="95%" />
+<br/>
+
+---
+
+## ✦ Time in the Void
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```txt
+No activity tracked
+```
+<!--END_SECTION:waka-->
 
 </div>
 
