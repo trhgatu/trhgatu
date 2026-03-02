@@ -12,6 +12,9 @@
    ██║   ██║  ██║██║  ██║╚██████╔╝██║  ██║   ██║   ╚██████╔╝
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=520&height=28&lines=just+a+soul+writing+code+the+way+painters+write+light" />
 
