@@ -76,7 +76,7 @@ const trhgatu = {
 
 `— The Alchemist's Workshop —`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,k8s,grafana,figma,postman,vscode,vercel&theme=dark" />
 
 </div>
 
