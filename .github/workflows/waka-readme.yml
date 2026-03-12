@@ -13,5 +13,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_DAYS_LAST_7: "false"
-          SHOW_TIME_TOTAL: "true"
+          SHOW_TOTAL: "true"
+          TIME_RANGE: "all_time"
+          COMMIT_MESSAGE: "Forge OS: Synchronizing coding alchemy [skip ci]"
