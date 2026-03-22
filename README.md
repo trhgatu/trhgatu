@@ -109,13 +109,13 @@ const trhgatu = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 45 hrs 9 mins
+Total Time: 46 hrs 56 mins
 
-TypeScript    35 hrs 21 mins        ███████████████████▓░░░░░   78.17 %
-YAML          2 hrs 49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Docker        2 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-JSON          2 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Bash          44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript    36 hrs 51 mins        ███████████████████▓░░░░░   78.36 %
+YAML          2 hrs 49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Docker        2 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+JSON          2 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Prisma        51 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
