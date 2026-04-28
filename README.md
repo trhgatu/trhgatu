@@ -58,7 +58,7 @@ const trhgatu = {
 
 `— The Dialects of Logic —`
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,golang&theme=dark" />
 
 <br/>
 
@@ -70,7 +70,7 @@ const trhgatu = {
 
 `— The Foundation & Memory —`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,golang,mongodb,mysql,postgresql,redis,firebase,graphql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,prisma,redis,firebase,graphql,supabase&theme=dark" />
 
 <br/>
 
