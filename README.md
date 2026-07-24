@@ -109,13 +109,7 @@ const trhgatu: Developer = {
 
 <div align="center">
 
-<!--
-  Cần setup 1 lần bằng GitHub Action Platane/snk (action chạy free, output ra SVG).
-  Xem hướng dẫn: https://github.com/Platane/snk
-  Sau khi setup xong, thay dòng img bên dưới bằng URL SVG do action tạo ra,
-  ví dụ: https://raw.githubusercontent.com/trhgatu/trhgatu/output/github-contribution-grid-snake-dark.svg
--->
-<img src="https://raw.githubusercontent.com/trhgatu/trhgatu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+<img src="https://raw.githubusercontent.com/trhgatu/trhgatu/output/github-snake-dark.svg" alt="contribution snake animation" />
 
 </div>
 
