@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge)](https://thatu.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge)](https://thatu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge)](https://www.linkedin.com/in/trhgatu1103)
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge)](mailto:trhgatu.dev@gmail.com)
 
