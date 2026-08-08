@@ -122,13 +122,13 @@ const trhgatu: Developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 360 hrs 50 mins
+Total Time: 365 hrs 20 mins
 
-TypeScript    245 hrs 16 mins       ████████████████▒░░░░░░░░   65.78 %
-JavaScript    44 hrs 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Markdown      28 hrs 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Other         12 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-JSON          10 hrs 56 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+TypeScript    249 hrs 37 mins       ████████████████▓░░░░░░░░   66.07 %
+JavaScript    44 hrs 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Markdown      28 hrs 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Other         12 hrs 26 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+JSON          10 hrs 56 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
