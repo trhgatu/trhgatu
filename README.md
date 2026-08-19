@@ -13,7 +13,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=520&height=28&lines=Backend+Developer+%7C+DDD+%26+Scalable+Systems" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=520&height=28&lines=Software+Engineer+%7C+Full-Stack+%26+System+Design" alt="typing banner" />
 
 <br/>
 
@@ -36,18 +36,18 @@
 ## About
 
 ```ts
-type Focus = "Scalable Backend" | "DDD";
+type Focus = "Full-Stack Development" | "System Design" | "Clean Architecture";
 
-interface Developer {
+interface Engineer {
   focus: Focus[];
   belief: string;
   currentOp: string;
 }
 
-const trhgatu: Developer = {
-  focus: ["Scalable Backend", "DDD"],
+const trhgatu: Engineer = {
+  focus: ["Full-Stack Development", "System Design", "Clean Architecture"],
   belief: "Clean code, clear intent.",
-  currentOp: "FOS — shipping past localhost",
+  currentOp: "Magnum Opus — shipping past localhost",
 };
 ```
 
