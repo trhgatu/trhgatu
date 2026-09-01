@@ -122,13 +122,13 @@ const trhgatu: Engineer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 425 hrs 51 mins
+Total Time: 430 hrs 20 mins
 
-TypeScript    297 hrs 24 mins       ████████████████▓░░░░░░░░   66.12 %
-JavaScript    48 hrs 2 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Markdown      34 hrs 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Other         23 hrs 54 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-JSON          11 hrs 51 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TypeScript    301 hrs 24 mins       ████████████████▓░░░░░░░░   66.30 %
+JavaScript    48 hrs 11 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Markdown      34 hrs 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Other         24 hrs 15 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON          11 hrs 51 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
