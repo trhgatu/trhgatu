@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/201b43e7-6b0e-4daf-96f9-4918a5491a1d" width="120" style="border-radius:50%" alt="avatar" />
-
-<br/><br/>
-
 ```
 ████████╗██████╗ ██╗  ██╗ ██████╗  █████╗ ████████╗██╗   ██╗
 ╚══██╔══╝██╔══██╗██║  ██║██╔════╝ ██╔══██╗╚══██╔══╝██║   ██║
@@ -47,7 +43,7 @@ interface Engineer {
 const trhgatu: Engineer = {
   focus: ["Full-Stack Development", "System Design", "Clean Architecture"],
   belief: "Clean code, clear intent.",
-  currentOp: "Magnum Opus — shipping past localhost",
+  currentOp: "Magnum Opus",
 };
 ```
 
@@ -73,13 +69,13 @@ const trhgatu: Engineer = {
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,prisma,redis,firebase,graphql,supabase&theme=dark" alt="backend and data stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,prisma,redis,graphql&theme=dark" alt="backend and data stack" />
 
 <br/>
 
 **Tools & Infra**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,k8s,grafana,figma,postman,vscode,vercel&theme=dark" alt="tools and infra" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,k8s,grafana,figma,postman,vscode&theme=dark" alt="tools and infra" />
 
 </div>
 
